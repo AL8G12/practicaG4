@@ -22,5 +22,5 @@
 
 		<gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
 <gap:plugin name="org.apache.cordova.dialogs" version="0.2.6" />
-<gap:plugin name="com.rjfun.cordora.plugin.lowlatencyaudio" version="1.0"
+<gap:plugin name="com.rjfun.cordova.plugin.lowlatencyaudio" version="1.0"/>
 </widget>
